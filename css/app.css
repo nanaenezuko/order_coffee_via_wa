@@ -1,0 +1,29 @@
+.main {
+    margin-bottom: 75px;
+}
+
+.modal-item-container {
+    margin: 20px;
+    width: 60%;
+    display: block;
+    margin: auto;
+}
+
+.item-container{
+    padding: 10px;
+}
+
+.item-card-list {
+    padding: 10px;
+}
+
+.modal-item {
+    padding: 10px;
+}
+
+.modal-wishlist-container {
+    margin: 20px;
+    width: 85%;
+    display: block;
+    margin: auto;
+}

@@ -1,0 +1,8 @@
+{
+    "name":"Coffee Latte",
+    "image":"https://fdid.imgix.net/prod/coffee-latte-hot-ice-1tQiXKUsUu.jpg",
+    "variant": [{
+        "name":"small",
+        "price": 5000
+    }]
+}
