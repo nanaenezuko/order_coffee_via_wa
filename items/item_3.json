@@ -1,0 +1,11 @@
+{
+    "name":"Choco",
+    "image":"https://s0.bukalapak.com/img/51701819741/large/CHEFMATE_CHOCO_DRINK_500_GR_READY_STOCK_CHOCOLATE.png",
+    "variant": [{
+        "name":"small",
+        "price": 5000
+    }, {
+        "name":"big",
+        "price":8000
+    }]
+}

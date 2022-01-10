@@ -1,0 +1,14 @@
+{
+    "name":"Milk",
+    "image":"https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/02/296564_1100-800x825.jpg",
+    "variant": [{
+        "name":"small",
+        "price": 5000
+    },{
+        "name":"medium",
+        "price":7000
+    },{
+        "name":"big",
+        "price":8000
+    }]
+}
